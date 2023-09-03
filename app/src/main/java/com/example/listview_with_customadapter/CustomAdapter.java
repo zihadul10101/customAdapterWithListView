@@ -11,13 +11,15 @@ import android.widget.TextView;
 public class CustomAdapter extends BaseAdapter {
 
     int [] img;
-    String[] cricketerName;
     Context context;
+    String[] cricketerName;
+    String[] cricketerDetail;
     LayoutInflater inflater;
 
-    CustomAdapter(Context context,String[] cricketerName,int[] img){
+    CustomAdapter(Context context,String[] cricketerName,String[] cricketerDetail,int[] img){
         this.context=context;
         this.cricketerName = cricketerName;
+        this.cricketerDetail = cricketerDetail;
         this.img=img;
     }
 
@@ -45,8 +47,11 @@ public class CustomAdapter extends BaseAdapter {
         }
         ImageView imageView=view.findViewById(R.id.crickterImg);
         TextView textView=view.findViewById(R.id.crickterName);
+        //TextView textView1=view.findViewById(R.id.crickterDescription);
+
         imageView.setImageResource(img[i]);
         textView.setText(cricketerName[i]);
+       // textView1.setText(cricketerDetail[i]);
         return view;
     }
 }

@@ -4,15 +4,57 @@
 
         <item>Shakib Al Hasan wife</item>
         <item>Liton Das Wife</item>
-        <item>Mushfiqur Rahim wife</item>
         <item>Mashrafe Mortaza wife</item>
+        <item>Mahmudullah wife</item>
+        <item>Mushfiqur Rahim wife</item>
         <item>Sabbir Rahman wife</item>
         <item>Tamim Iqbal wife</item>
         <item>Rubel Hossain wife</item>
-        <item>Mahmudullah wife</item>
         <item>Mustafizur Rahman wife</item>
         <item>Soumya Sarkar wife</item>
         <item>Ashraful wife</item>
 
     </string-array>
+    <string-array name="crickerterDtails">
+        <item>Arguably, Bangladesh’s greatest cricketer ever Shakib Al Hasan fell in love with
+        beautiful Umme Ahmed Shishir. She is a model by profession and software engineer by education.
+        Umme Ahmed Shishir was living in the USA and completed her graduation there. Later on, she moved to
+        the UK for her further studies. That’s when she met with Shakib Al Hasan who was playing in county cricket
+        in England. Both started dating and got married in 2012. They are now parents to two adorable children.</item>
+        <item>Liton Das is Bangladesh’s promising young batsman who has impressed everyone in his short
+        international career. Liton Das got engaged to Devasri Biswas Sanchita last year in April and after the ICC cricket world cup, both tied the knot in July. Devasri Biswas escaped a major accident in March 2020 when a cylinder blasted off in their Dhaka home. Although she got injured with
+        some major wounds but the situation could have been much worse.</item>
+        <item name="Mushfiqur">
+        Mushfiqur Rahim married to Jannatul Kifayet after an interesting love story. Jannatul Kifayet is the sister-in-law of another Bangladeshi cricketer Mahmadullah Riyad. Both met at the wedding of Mahmadullah Riyad and started dating. After two years of relationship, they decided to call forever on 24th September, 2014. The couple is now parents to a beautiful baby boy.
+    </item>
+        <item >
+        A vintage all-rounder, Mashrafe Mortaza started dating her lady love Sumona Haque Sumi when both were at Govt. Victoria College. In 2006, both got married and the career of Mashrafe Mortaza took off exponentially. Sumona is an entrepreneur and runs a fashion designer outlet in Dhaka. They have a daughter and a son from the marriage.
+    </item>
+        <item >
+        A cricketer who always loves to be in the news with one or another controversy, Sabbir Rahman tied the knot with Arpa. The wedding ceremony took place in March 2019 in an extremely private affair. Arpa was a second-year HSC student at the time of marriage.
+    </item>
+        <item >
+Bangladesh limited-overs captain Tamim Iqbal had a long-lasting relationship with Ayesha Siddiqui. According to some close friends, Tamim Iqbal proposed Ayesha at the age of 16. In the first go, Ayesha rejected the proposal but soon after both came close and started developing feelings towards each other. In the meantime, Ayesha moved to Malaysia for further studies and Tamim Iqbal started playing for Bangladesh at the international stage. After an extensive relationship of 8 years, both got married in a grand ceremony at Chittagong during the year 2013. Both are now parents to two beautiful boys.
+    </item>
+        <item >
+Bangladeshi speedster Rubel Hossain ran himself into deep trouble when actress Nazneen Aktar accused him for some serious physical assaults. But Rubel Hossain was cleared on later and he got married to Ishrat Jahan Dola in 2016. Ishrat was relatively young and she was studying in 10th grade at the time of marriage. She is the daughter of a famous cement businessman of Bagerhat
+    </item>
+        <item >
+        Bangladeshi all-rounder Mahmudullah Riyad tied the knot with his long time friend Jannatul Kawsar Mishti on 25th June 2011. Their wedding was a grand event held in Dhaka in the presence of high profile guests. The couple are now parents to two sons – Raeed and Mayed. As mentioned earlier, Jannatul Kawsar Mishti is the sister of Mushfiqur Rahim’s wife Jannatul Kifayet.
+    </item>
+        <item >
+        Pace sensation Mustafizur Rahman got hitched to Samia Parvin after returning home from New Zealand tour in March 2019.
+        The reception of the couple took place after the ICC cricket world cup last year. Both knew each other for a couple of years before the marriage. Samia was a student of psychology at Dhaka University and she was also a family cousin of Mustafizur Rahman, interestingly.
+    </item>
+        <item >
+        Talented left-hander Soumya Sarkar tied the knot with Priyonti Debnath Puja in February 2020. The traditional Bengali wedding ceremony took place at Khulna Club and both families and friends were present at the occasion. Priyonti hails
+        from Tutpara in Khulna and she has recently completed her ‘O’ level examination in Dhaka.
+    </item>
+        <item >After a long courtship period, the first poster boy of Bangladeshi cricket Mohammad Ashraful got married with Anika Taslima Orchi on 11th December 2015. The function was held in Dhaka and the couple enjoyed a luxurious honeymoon in the Maldives straight after the marriage. Both were childhood friends and Anika was used to attend cricket
+        matches when Mohammad Ashraful was still playing for his country. The couple is now parents to two sons.</item>
+
+    </string-array>
+
+
+
 </resources>

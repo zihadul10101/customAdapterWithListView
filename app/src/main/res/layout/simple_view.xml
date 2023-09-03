@@ -18,6 +18,7 @@
             android:src="@drawable/ash_wife"
             android:scaleType="fitXY"
             android:layout_weight="1"
+            android:layout_margin="5dp"
             />
             <LinearLayout
                 android:layout_weight="3"
@@ -36,20 +37,20 @@
     android:gravity="center_horizontal"
 
     />
-                <TextView
-                    android:id="@+id/crickterDescription"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:textSize="10sp"
-                    android:text="Shakib er wife"
-                    android:textColor="@color/white"
-                    android:textStyle="bold"
-                    android:layout_marginLeft="5dp"
-                    android:layout_marginTop="5dp"
-                    android:gravity="center_horizontal"
+<!--                <TextView-->
+<!--                    android:id="@+id/crickterDescription"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textSize="10sp"-->
+<!--                    android:text="Shakib er wife"-->
+<!--                    android:textColor="@color/white"-->
+<!--                    android:textStyle="bold"-->
+<!--                    android:layout_marginLeft="5dp"-->
+<!--                    android:layout_marginTop="5dp"-->
+<!--                    android:gravity="center_horizontal"-->
 
 
-                    />
+<!--                    />-->
 
             </LinearLayout>
 

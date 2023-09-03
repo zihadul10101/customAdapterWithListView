@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">listview_with_customadapter</string>
+    <string-array name="cricketer_name">
+
+        <item>Shakib Al Hasan wife</item>
+        <item>Liton Das Wife</item>
+        <item>Mushfiqur Rahim wife</item>
+        <item>Mashrafe Mortaza wife</item>
+        <item>Sabbir Rahman wife</item>
+        <item>Tamim Iqbal wife</item>
+        <item>Rubel Hossain wife</item>
+        <item>Mahmudullah wife</item>
+        <item>Mustafizur Rahman wife</item>
+        <item>Soumya Sarkar wife</item>
+        <item>Ashraful wife</item>
+
+    </string-array>
+</resources>
